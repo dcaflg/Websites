@@ -7,5 +7,6 @@
 * [菜鸟教程](http://www.runoob.com/ "立刻去学习") <br>
 * [实验楼](https://www.shiyanlou.com/ "立刻去学习")
 ### 编程软件官网
+* [Visual Studio 中文官网](https://visualstudio.microsoft.com/zh-hans/?rr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DswvMmLj6FOlbqqzuPdrp0iaTjZBsyqVjNiPbK5_RWPX4RocYimGHsKAnoVDMuqvx%26wd%3D%26eqid%3Da0c63c7200000824000000025cf7dcef "立刻去官网")
 # 持续更新中......<br>
 # 如果你有充满创意的想法，请让我知道！
