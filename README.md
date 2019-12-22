@@ -13,5 +13,6 @@
 * [Markdown编辑工具Tea官网](https://haocha.co/?ref=appinn "立刻去Tea官网")
 ### 电子书下载网站
 * [免费下载电子书](http://freecomputerbooks.com/ "立刻去下载")
+* [免费下载音效](https://taira-komori.jpn.org/freesoundcn.html "立刻去下载")
 # 持续更新中......<br>
 # 如果你有充满创意的想法，请让我知道！
