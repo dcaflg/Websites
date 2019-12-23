@@ -15,5 +15,6 @@
 * [免费下载电子书](http://freecomputerbooks.com/ "立刻去下载")
 * [免费下载音效](https://taira-komori.jpn.org/freesoundcn.html "立刻去下载")
 * [油管介绍](https://blog.csdn.net/qq_20492999/article/details/81708646 "立刻去了解")
+* [上线Java项目教程](https://hacpai.com/article/1565021959471 "立刻了解")
 # 持续更新中......<br>
 # 如果你有充满创意的想法，请让我知道！
